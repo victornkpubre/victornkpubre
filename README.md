@@ -78,6 +78,3 @@
 
 
 ----
-Credit: [Bgstatic](https://github.com/Bgstatic)
-
-Last Edited on: 23/09/2020
