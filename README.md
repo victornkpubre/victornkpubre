@@ -5,9 +5,9 @@
 ## I'm a Computer Science and Accounting Student  
 
 - 👨‍💻 I’m currently working on cross-platform development technologies like Flutter and React.
-- 💪🏼 Software Development Stack: Flutter or Vue.js & Laravel or Django
-- 📚 I’m currently learning everything about React, Devops and Deep Learning with Django 😅
-- ⚡ Fun fact: I love to listen to music and play soccer and golf 🎱.
+- 💪🏼 Software Development Stack in order of increasing proficiency: Vue.js, React, Django, Laravel then Flutter 
+- 📚 I’m currently learning everything about Devops and Deep Learning😅
+- ⚡ Fun fact: I love to listen to music and play soccer and golf .
 
 ---
 
