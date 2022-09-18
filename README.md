@@ -13,7 +13,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />][website]
+[<img align="left" alt="bilgehangecici.site" height="30px" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />]
 [<a href="https://www.linkedin.com/in/victor-nkpubre-6444b793/"><img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>]
 
 <br />
