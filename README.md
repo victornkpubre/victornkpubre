@@ -12,9 +12,7 @@
 ---
 
 ### Contact with me 📝
-
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />]
-[<a href="https://www.linkedin.com/in/victor-nkpubre-6444b793/"><img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>]
+<a href="https://www.linkedin.com/in/victor-nkpubre-6444b793/"><img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br />
 
@@ -80,8 +78,6 @@
 
 [website]: http://bilgehangecici.site/
 [instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/11153360645
-
+[linkedin]: https://www.linkedin.com/in/victor-nkpubre-6444b793/
 
 ----
