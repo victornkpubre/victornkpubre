@@ -11,19 +11,19 @@
 
 ---
 ### Software Development History
-**Educational Background**
+**Educational Background** <br />
 I start programming during my undergraduate degree in computer science. I learnt java in my first year and used it for all my assignments, projects and research. During my third year, i learnt php, html, css, javascript, ajax and jquery. By the end of my undergradute education i had experience using various programming tool including ada, android sdk and encog. Also had experience working with a team of programmers.
 
-**Freelancing**
+**Freelancing** <br />
 After my post-graduate studies i built a website for a cakery called Follic acid. A simple website to showcase cakes and make orders. Built using html, bootstrap, jquery and ajax. I also built authentication screens for social app using the android sdk.
 
-**First Job**
+**First Job** <br />
 After freelancing, i started working at an investment company called First Standard investment. I used flutter and firebase to build apps for their clients. During my first year at First Standard Investments, learnt Ui/Ux and Adobe XD. Using adobe illustrator, adobe xd, flutter/dart and firebase i completed 3 end to end app development projects. 
 
-**Second Job**
+**Second Job** <br />
 After a few years at First Standard i got a new job at a bank called Polaris. I worked in their solution development department, designing system diagrams and Ux requirments for apps and websites. I gained experience using Azure, Ms Visio , Figma, Slack, Teams. I greatly imporved my communication and project management skills.
 
-**First Contract**
+**First Contract** <br />
 After a few years at Polaris i secured a contract job for a travel and tours company called Elidak Ltd. Working with a designer and a flutter developer, i built a mobile app and a Website for Elidak Ltd. We used Figma, Flutter, Vue and Laravel to build a mobile app, to bringing clients closer to the company and a website for the companies staff to manage the content of the app.
 
 
