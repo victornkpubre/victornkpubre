@@ -39,7 +39,7 @@ After a year at Polaris i secured a contract job for a travel and tours company 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-FF6C37?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Tensorflow](http://img.shields.io/badge/-Tensorflow-3776AB?style=flat-square&logo=tensorflow&logoColor=ffffff)
+![TensorFlow](http://img.shields.io/badge/-TensorFlow-3776AB?style=flat-square&logo=tensorflow&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
