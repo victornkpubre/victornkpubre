@@ -4,8 +4,8 @@
 
 ## I'm a Software Engineer with Programming, System Design and Ux Design Skills   
 
-- 👨‍💻 I’m currently working on back-end development technologies like Laravel and Java.
-- 💪🏼 Software Development Stack in the order of increasing proficiency: React, Spring, Vue.js, Laravel then Flutter 
+- 👨‍💻 I’m currently working on back-end and ML technologies like Tensorflow and Java Spring.
+- 💪🏼 Software Development Stack in the order of increasing proficiency:  Vue.js, Laravel, React, Spring then Flutter 
 - 📚 I’m currently learning everything about Azure Ai Services and TensorFLow😅
 - ⚡ Fun fact: I love dogs, coffee, stand-up comedy, music, soccer, mma and golf.
 
@@ -18,13 +18,13 @@ I start programming during my undergraduate degree in computer science. I learnt
 After my post-graduate studies i built a website for a cakery called Follic acid. A simple website to showcase cakes and make orders. Built using html, bootstrap, jquery and ajax. I also built authentication screens for social app using the android sdk.
 
 **First Job** <br />
-After freelancing, i started working at an investment company called First Standard investment. I used flutter and firebase to build apps for their clients. During my first year at First Standard Investments, learnt Ui/Ux and Adobe XD. Using adobe illustrator, adobe xd, flutter/dart and firebase i completed 3 end to end app development projects. 
+After freelancing, i started working at an investment company called First Standard investment. I used flutter and firebase to build apps for their clients. During my first year at First Standard Investments, learnt Ui/Ux and Adobe XD. Using adobe illustrator, adobe xd, flutter/dart and firebase i completed three end to end app development projects. 
 
 **Second Job** <br />
-After a few years at First Standard i got a new job at a bank called Polaris. I worked in their solution development department, designing system diagrams and Ux requirments for apps and websites. I gained experience using Azure, Ms Visio , Figma, Slack, Teams. I greatly imporved my communication and project management skills.
+After a few years at First Standard i got a new job at a bank called Polaris. I worked in their solution development department. I played various roles from front-end development to system design and Ux design, Building apps and websites. I gained experience using Flutter, React, Azure, Ms Visio , Figma and Teams. I greatly imporved my communication and project management skills.
 
 **First Contract** <br />
-After a few years at Polaris i secured a contract job for a travel and tours company called Elidak Ltd. Working with a designer and a flutter developer, i built a mobile app and a Website for Elidak Ltd. We used Figma, Flutter, Vue and Laravel to build a mobile app, to bringing clients closer to the company and a website for the companies staff to manage the content of the app.
+After a year at Polaris i secured a contract job for a travel and tours company called Elidak Ltd. Working with a designer and a flutter developer, i built a mobile app and a Website for Elidak Ltd. We used Figma, Flutter, Vue and Laravel to build a mobile app, to bringing clients closer to the company and a website for the companies staff to manage the content of the app.
 
 
 ### Contact with me 📝
@@ -37,6 +37,7 @@ After a few years at Polaris i secured a contract job for a travel and tours com
 ### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/-Spring-FF6C37?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
