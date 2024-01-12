@@ -5,7 +5,7 @@
 ## I'm a Software Engineer with Programming, System Design and Ux Design Skills   
 
 - 👨‍💻 I’m currently working as a full-stack engineer building and designing web and mobile applications.
-- 💪🏼 Software Development Stack in the order of increasing proficiency:  Vue.js, Laravel, React, Spring then Flutter 
+- 💪🏼 Software Development Stack in the order of increasing proficiency:  Spring, Vue.js, Laravel, React, Node then Flutter 
 - 📚 I’m currently learning everything about Azure Ai Services and TensorFLow😅
 - ⚡ Fun fact: I love dogs, coffee, stand-up comedy, music, soccer, mma and golf.
 
