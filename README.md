@@ -85,9 +85,12 @@ After a year at Polaris i secured a contract job for a travel and tours company 
     </a>
 </div
 
-<br/>
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victornkpubre&layout=compact&theme=vision-friendly-dark)]
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victornkpubre&layout=compact&theme=vision-friendly-dark)]
+
+<br/>
 
 
 ---
