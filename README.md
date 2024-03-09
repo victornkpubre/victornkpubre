@@ -20,11 +20,11 @@ After my post-graduate studies i built a website for a cakery called Follic acid
 **Full - Time: First Standard Investment Ltd.** <br />
 After freelancing, i started working at an investment company called First Standard investment. I used flutter and firebase to build apps for their clients. During my first year at First Standard Investments, learnt Ui/Ux and Adobe XD. Using adobe illustrator, adobe xd, flutter/dart and firebase i completed three end to end app development projects. 
 
-**Full-Time: Polaris Bank Ltd.** <br />
-After a few years at First Standard i got a new job at a bank called Polaris. I worked in their solution development department. I played various roles from front-end development to system design and Ux design, Building apps and websites. I gained experience using Flutter, React, Azure, Ms Visio , Figma and Teams. I greatly imporved my communication and project management skills. I played several roles, designing, developing and improving various web and mobile applications.
-
 **Contract: Elidak Ltd.** <br />
-After a year at Polaris i secured a contract job for a travel and tours company called Elidak Ltd. Working with a designer and a flutter developer, i built a mobile app and a Website for Elidak Ltd. We used Figma, Flutter, Vue and Laravel to build a mobile app, to bringing clients closer to the company and a website for the companies staff to manage the content of the app.
+After 2 years at First Standard, i secured a contract job for a travel and tours company called Elidak Ltd. Working with a designer and a flutter developer, i built a mobile app and a Website for Elidak Ltd. We used Figma, Flutter, Vue and Laravel to build a mobile app, to bringing clients closer to the company and a website for the companies staff to manage the content of the app.
+
+**Full-Time: Polaris Bank Ltd.** <br />
+After Elidak, i got a new job at a bank called Polaris. I worked in their solution development department. I played various roles from front-end development to system design and Ux design, Building apps and websites. I gained experience using Kotlin, Flutter, React, Azure, Ms Visio , Figma and Teams. I greatly imporved my communication and project management skills. I played several roles, designing, developing and improving various web and mobile applications.
 
 
 ### Contact with me 📝
