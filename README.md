@@ -5,8 +5,8 @@
 ## I'm a Software Engineer with Programming, System Design and Ux Design Skills   
 
 - 👨‍💻 I’m currently working as a full-stack engineer building and designing web and mobile applications.
-- 💪🏼 Software Development Stack in the order of increasing proficiency:  Spring, Vue.js, Laravel, React, Node then Flutter 
-- 📚 I’m currently learning everything about Azure Ai Services and TensorFLow😅
+- 💪🏼 Software Development Stack in the order of increasing proficiency: Spring, Vue.js, Node, React, Laravel, Kotlin then Flutter 
+- 📚 I’m currently learning everything about AI, Trading, AWS and TensorFlow😅
 - ⚡ Fun fact: I love dogs, coffee, stand-up comedy, music, soccer, mma and golf.
 
 ---
@@ -24,7 +24,7 @@ After freelancing, i started working at an investment company called First Stand
 After 2 years at First Standard, i secured a contract job for a travel and tours company called Elidak Ltd. Working with a designer and a flutter developer, i built a mobile app and a Website for Elidak Ltd. We used Figma, Flutter, Vue and Laravel to build a mobile app, to bringing clients closer to the company and a website for the companies staff to manage the content of the app.
 
 **Full-Time: Polaris Bank Ltd.** <br />
-After Elidak, i got a new job at a bank called Polaris. I worked in their solution development department. I played various roles from front-end development to system design and Ux design, Building apps and websites. I gained experience using Kotlin, Flutter, React, Azure, Ms Visio , Figma and Teams. I greatly imporved my communication and project management skills. I played several roles, designing, developing and improving various web and mobile applications.
+After Elidak, i got a job at a bank called Polaris. I worked in their solution development department. I played various roles from front-end development to system design and Ux design, Building apps and websites. I am currently utilizing tools like Kotlin, Flutter, Laravel,  React, AWS, Draw.io, Visio, Figma and Teams. I am imporving my communication and project management skills and i play several roles designing, developing and improving various web and mobile applications.
 
 
 ### Contact with me 📝
