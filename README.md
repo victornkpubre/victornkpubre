@@ -70,7 +70,7 @@
 <h2 align="center"> 🚀 Top Languages </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victornkpubre&layout=compact&langs_count=10&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victornkpubre&theme=tokyonight" />
 </p>
 
 <br/>
