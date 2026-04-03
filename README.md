@@ -60,16 +60,20 @@
 
 <h2 align="center"> Github Statistics 📈 </h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=victornkpubre&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=victornkpubre&theme=tokyonight)
-
-## 🚀 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victornkpubre&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victornkpubre&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=victornkpubre&theme=tokyonight" height="180"/>
+</p>
 
 <br/>
 
+<h2 align="center"> 🚀 Top Languages </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victornkpubre&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
+</p>
+
+<br/>
 
 ---
 
