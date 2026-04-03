@@ -62,7 +62,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victornkpubre&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=victornkpubre&theme=tokyonight" height="180"/>
 </p>
 
 <br/>
