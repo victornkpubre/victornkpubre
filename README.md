@@ -59,6 +59,15 @@
 <br/>
 
 <h2 align="center"> Github Statistics 📈 </h2>
+# 👋 David's GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=victornkpubre&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=victornkpubre&theme=tokyonight)
+
+## 🚀 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 <div align="center">
   <a href="">
